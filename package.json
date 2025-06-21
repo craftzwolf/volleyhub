@@ -1,0 +1,13 @@
+{
+  "name": "volleyhub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/craftzwolf/volleyhub.git",
+  "author": "Meireles Fernando <118017313+craftzwolf@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

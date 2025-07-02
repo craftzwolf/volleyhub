@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Estrella';
+    src: url('../assets/fonts/estrella.otf') format('opentype');
+    font-weight: normal;
+    font-style: none;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
